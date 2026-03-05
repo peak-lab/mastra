@@ -1,0 +1,8 @@
+node_modules
+.mastra
+.git
+*.db
+*.db-*
+.env
+.env.*
+dist
